@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c36b3971-0aec-4ab2-b7fa-3a5731e00bd6">
+  <name>Кассир</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кассир</value>
+  </synonym>
+</mdclass:Role>
